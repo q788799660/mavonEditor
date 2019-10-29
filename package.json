@@ -113,7 +113,7 @@
     "webpack": "^2.4.1",
     "webpack-bundle-analyzer": "^2.8.1",
     "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^2.11.5",
+    "webpack-dev-server": "^3.1.11",
     "webpack-md5-hash": "^0.0.5"
   },
   "homepage": "https://github.com/hinesboy/mavonEditor#readme",
